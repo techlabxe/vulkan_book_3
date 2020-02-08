@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9D88B3BE-BC05-4551-AD26-974119B2975A}") = "03_HelloGeometryShader", "03_HelloGeometryShader.vcxproj", "{337992BE-F1CB-4105-A595-83E0D6FA6428}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{337992BE-F1CB-4105-A595-83E0D6FA6428}.Debug|x64.ActiveCfg = Debug|x64
+		{337992BE-F1CB-4105-A595-83E0D6FA6428}.Debug|x64.Build.0 = Debug|x64
+		{337992BE-F1CB-4105-A595-83E0D6FA6428}.Release|x64.ActiveCfg = Release|x64
+		{337992BE-F1CB-4105-A595-83E0D6FA6428}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49612EA9-CDA4-43B4-B667-A25D4687C9C8}
+	EndGlobalSection
+EndGlobal
